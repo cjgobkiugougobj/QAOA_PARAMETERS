@@ -1,6 +1,6 @@
 # Increased cost-landscape simlarity for QAOA using input scaling 
 
-This repository contains the code on quantum optimization using QAOA. We investigate the impact of input scaling on the cost landscape and optimization performance of VQEs.
+This repository contains the code for the experimentation on quantum optimization using QAOA. We investigate the impact of input scaling on the cost landscape and optimization performance of VQEs.
 
 ## Dependencies
 
