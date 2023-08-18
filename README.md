@@ -22,7 +22,7 @@ pip install qiskit numpy matplotlib public-package
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/research-project.git
+git clone https://github.com/cjgobkiugougobj/QAOA_PARAMETERS.git
 ```
 
 2. Navigate to the project directory:
