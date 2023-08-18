@@ -1,6 +1,6 @@
 # Increased cost-landscape simlarity for QAOA using input scaling 
 
-This repository contains the code and findings for our research on quantum optimization using Variational Quantum Eigensolvers (VQEs). We investigate the impact of input scaling on the cost landscape and optimization performance of VQEs.
+This repository contains the code on quantum optimization using QAOA. We investigate the impact of input scaling on the cost landscape and optimization performance of VQEs.
 
 ## Dependencies
 
