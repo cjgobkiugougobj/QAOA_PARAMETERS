@@ -1,4 +1,4 @@
-# The input scaling can produce similar cost landscapes for various matrix inputs for VRP solved uing QAOA. 
+# Increased cost-landscape simlarity for QAOA using input scaling 
 
 This repository contains the code and findings for our research on quantum optimization using Variational Quantum Eigensolvers (VQEs). We investigate the impact of input scaling on the cost landscape and optimization performance of VQEs.
 
